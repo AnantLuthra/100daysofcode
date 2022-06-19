@@ -10,5 +10,8 @@ int main(void)
     printf("%p\n", p);
 
     // Printing directly the address of variable n
-    printf("%p\n", &n); 
+    printf("%p\n", &n);
+
+    // printing value of some variable through it's address.
+    printf("%i\n", *p);
 }
