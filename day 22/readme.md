@@ -2,4 +2,4 @@
 
 ### Today I learnt about:-
 - Garbage values
-- Swapping values through temp variable.
+- Swapping values of two variables through temp variable.
