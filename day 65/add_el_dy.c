@@ -24,12 +24,24 @@ int main(void)
         return 1;
     }
 
-    new_arry[3] = 4;
+    // Copying old in temerary new array.
 
-    // adding existing elements to new array.
     for (int i = 0; i < 3; i++)
     {
         new_arry[i] = array[i];
     }
+
+    new_arry[3] = 4;
+    free(array);
+    array = new_arry;
+
+    //printing the new array.
+
+    for (int i = 0; i < 4; i++)
+    {
+        printf("%i", array[i]);
+    }
+
+    free(new_arry);
 
 }
