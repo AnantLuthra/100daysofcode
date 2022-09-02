@@ -1,0 +1,5 @@
+print_tree(tree->left(NULL))
+print_tree(tree->left(1-(NULL, NULL)));
+print_tree(tree->left(2-(1,3)));
+print_tree(tree(4-(2,6)));
+main();
