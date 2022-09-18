@@ -98,3 +98,5 @@
 - Day 89 [🔗](./day%2089/)
 - Day 90 [🔗](./day%2090/)
 - Day 91 [🔗](./day%2091/)
+- Day 92 [🔗](./day%2092/) - 
+- Day 93 [🔗](./day%2093/) - Revised advance string slicing in python
