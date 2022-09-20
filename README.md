@@ -101,3 +101,4 @@
 - Day 92 [🔗](./day%2092/) - 
 - Day 93 [🔗](./day%2093/) - Revised advance string slicing in python
 - Day 94 [🔗](./day%2094/) - Watched a short of week 5 of (Data Structures Summary)
+- Day 95 [🔗](./day%2095/) - Watched a short of week 5 of (Structures - Making our own data structure type.)
