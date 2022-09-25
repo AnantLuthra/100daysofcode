@@ -103,3 +103,7 @@
 - Day 94 [🔗](./day%2094/) - Watched a short of week 5 of (Data Structures Summary)
 - Day 95 [🔗](./day%2095/) - Watched a short of week 5 of (Structures - Making our own data structure type.)
 - Day 96 [🔗](./day%2096/) - Today i just did a little practice in python
+- Day 97 🔗 - Watched a short of week 5
+- Day 98 🔗 - Watched a short of week 5
+- Day 99 🔗 - Watched a short of week 5
+- Day 100 🔗 - Watched a short of week 5(singly linked list)
