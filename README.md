@@ -2,6 +2,7 @@
 
 ## This repository contains my each day progress of #100daysofcode and practice which I've done each day while following cs50 introductory course.
 
+# This challenge is completed 🔥🔥[🔗](https://twitter.com/anant_luthra_/status/1574097731177484289)
 ---
 
 ## Daily Tasks
